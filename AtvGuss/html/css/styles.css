@@ -1,0 +1,84 @@
+html, body{
+  margin: 0;
+  margin-top: 1%;
+  margin-bottom: 3%;
+  padding: 0;
+  font-family: cursive, sans-serif;
+  background-color: #FFF68F;
+}
+
+p {
+  font-size: 1em;
+  font-style: normal;
+  font-variant: normal;
+  text-indent: 30px;
+  text-decoration: none;
+  text-align: left;
+  text-transform: none;
+  direction: ltr;
+  letter-spacing: normal;
+  word-spacing: normal;
+
+}
+
+h1 {
+  font-size: 2em;
+  text-align: center;
+  font-style: italic;
+}
+
+h2{
+  font-size: 1.5em;
+  font-style: oblique;
+  text-decoration: line-through;
+}
+
+h3{
+  font-size: 1.25em;
+  font-style: oblique;
+  text-decoration: underline;
+}
+
+.txtNegrito{
+  font-weight: ;
+}
+
+.txtItalico{
+  font-style: ;
+}
+
+.txtPequeno{
+  font-variant: ;
+}
+
+.txtRiscado{
+  text-decoration: ;
+}
+
+.txtSublinhado{
+  text-decoration: ;
+}
+
+.txtMarcado{
+  background-color: ;
+}
+
+.table{
+  text-align: center;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*text-shadow: 1px 2px 5px #888;*/
