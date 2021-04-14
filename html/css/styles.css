@@ -1,0 +1,208 @@
+html, body{
+  margin: 0;
+  padding: 0;
+  font-family: cursive, sans-serif;
+  background: url("https://images.wallpapersden.com/image/download/monkey-luffy_a21ramWUmZqaraWkpJRpbWxprWdtaWs.jpg");
+  background-size: cover;
+  color: #fff;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+div{
+    padding: 0% 10%;
+}
+
+#navMenu{
+  margin: 0px;
+  padding: 0px;
+}
+
+#divMenu {
+  margin: 0px;
+  padding: 0px;
+  padding-bottom: 40px;
+}
+
+nav #divMenu ul {
+    list-style-type: none;
+    text-align: right;
+    background-color: #333;
+    margin: 0;
+    width: 100%;
+    padding: 10px 10px;
+    position: fixed;
+}
+
+nav #divMenu ul li {
+    display: inline;
+}
+
+nav #divMenu ul li a {
+    text-decoration: none;
+    text-transform: lowercase;
+    color: #fff;
+    padding: 10px 20px;
+}
+
+
+.divBackground{
+
+}
+
+.imageblur{
+backdrop-filter: blur(0px);
+}
+
+
+
+
+
+
+.txtDetails{
+  text-align: center;
+}
+.summary{
+  text-align: center;
+}
+
+
+
+
+p {
+  font-size: 1em;
+  font-style: normal;
+  font-variant: normal;
+  text-indent: 30px;
+  text-decoration: none;
+  text-align: left;
+  text-transform: none;
+  direction: ltr;
+  letter-spacing: normal;
+  word-spacing: normal;
+
+}
+
+h1 {
+  font-size: 2em;
+  text-align: center;
+  font-style: italic;
+}
+
+h2{
+  font-size: 1.5em;
+  font-style: oblique;
+  text-decoration: line-through;
+}
+
+h3{
+  font-size: 1.25em;
+  font-style: oblique;
+  text-decoration: underline;
+}
+
+.txtNegrito{
+  font-weight: 900;
+}
+
+.txtItalico{
+  font-style: italic;
+}
+
+.txtPequeno{
+  font-variant: small-caps;
+}
+
+.txtRiscado{
+  text-decoration: line-through;
+}
+
+.txtSublinhado{
+  text-decoration: underline;
+}
+
+.txtMarcado{
+  background-color: #ff0;
+}
+
+.table{
+  text-align: center;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.Saga1color{
+  width: 4%;
+  background-color: #d3212d;
+}
+
+.Saga2color{
+  width: 4%;
+  background-color: #F38D3C;
+}
+
+.Saga3color{
+  width: 4%;
+  background-color: #ACDCDD;
+}
+
+.Saga4color{
+  width: 4%;
+  background-color: #2C75FF;
+}
+
+.Saga5color{
+  width: 4%;
+  background-color: #4C2882;
+}
+
+.Saga6color{
+  width: 4%;
+  background-color: #003C92;
+}
+
+.Saga7color{
+  width: 4%;
+  background-color: #00B0F6;
+}
+
+.Saga8color{
+  width: 4%;
+  background-color: #E8BF06;
+}
+
+.Saga9color{
+  width: 4%;
+  background-color: #00ef06;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*text-shadow: 1px 2px 5px #888;*/
